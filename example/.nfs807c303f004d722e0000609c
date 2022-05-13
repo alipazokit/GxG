@@ -1,0 +1,7 @@
+
+
+gen=small
+annot=annot.txt
+
+../build/rhemc_simul  -g $gen  -k 10 -jn 100   -annot $annot
+
